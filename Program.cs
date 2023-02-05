@@ -1,4 +1,4 @@
-﻿Console.Clear();
+﻿   Console.Clear();
     String number="0";
     String result = null;
     String reverseNumber = null;
